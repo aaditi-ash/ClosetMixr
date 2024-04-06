@@ -1,0 +1,54 @@
+name: closetmixer
+description: A new Flutter project.
+version: 1.0.0+1
+environment: 
+  sdk: '>=3.3.0 <4.0.0'
+dependencies: 
+  flutter: 
+    sdk: flutter
+  sizer: ^2.0.13
+  image_picker: ^1.0.7
+  palette_generator: ^0.3.0
+  cached_network_image: ^3.3.0
+  flutter_svg: ^2.0.9
+  carousel_slider: ^4.2.1
+  smooth_page_indicator: ^1.1.0
+  intl: ^0.19.0
+  firebase_core: 2.28.0
+  firebase_storage: ^11.7.0
+  cloud_firestore: ^4.16.0
+  flutter_screenutil: ^5.0.0+2
+  
+dev_dependencies: 
+  flutter_test: 
+    sdk: flutter
+flutter: 
+  uses-material-design: true
+  assets: 
+    - assets/
+    - assets/images/
+  fonts: 
+    - family: Marcellus
+      fonts: 
+        - asset: assets/fonts/MarcellusRegular.ttf
+          weight: 400
+    - family: Public Sans
+      fonts: 
+        - asset: assets/fonts/PublicSansMedium.ttf
+          weight: 500
+        - asset: assets/fonts/PublicSansThin.ttf
+          weight: 100
+        - asset: assets/fonts/PublicSansBold.ttf
+          weight: 700
+        - asset: assets/fonts/PublicSansRegular.ttf
+          weight: 400
+    - family: Poppins
+      fonts: 
+        - asset: assets/fonts/PoppinsSemiBold.ttf
+          weight: 600
+        - asset: assets/fonts/PoppinsMediumItalic.ttf
+          weight: 500
+    - family: Cambay
+      fonts: 
+        - asset: assets/fonts/CambayRegular.ttf
+          weight: 400

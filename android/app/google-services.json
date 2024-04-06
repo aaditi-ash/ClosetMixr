@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1022863312403",
+    "project_id": "closet-1aacb",
+    "storage_bucket": "closet-1aacb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022863312403:android:4c15380e49369a17d8e1e6",
+        "android_client_info": {
+          "package_name": "com.closetmixer.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDoihYxEMoGEcAh_bITk316zjgWNvSYW0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
